@@ -4,6 +4,6 @@ This script will print your online friends from vk.com.
 
 How to run:
 
-1. Enter your login.\n
+1. Enter your login.
 2. Enter your password.
 
